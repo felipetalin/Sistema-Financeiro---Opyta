@@ -1,0 +1,8 @@
+streamlit
+pandas
+gspread
+google-auth
+plotly
+babel
+Pillow
+st-aggrid
